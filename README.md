@@ -11,5 +11,9 @@ Please validate before practical use, as this code is not updated regularly.
 
 The specific contents are listed below:
 
+# 故障特征提取（Graph-Transformer）
+
+**相关文献**
 1. 
+2. 
 
